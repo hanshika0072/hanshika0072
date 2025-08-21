@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="imagess.gif" alt="readme" width="100%" height="400vh" />
+<img src="hero.gif" alt="readme" width="100%" height="400vh" />
 
 ## 👨‍💻 About Me
 
